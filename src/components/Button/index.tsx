@@ -1,6 +1,5 @@
 import React, { ButtonHTMLAttributes } from 'react';
 
-// eslint-disable-next-line import/no-unresolved
 import { Container } from './styles';
 
 type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement>;
